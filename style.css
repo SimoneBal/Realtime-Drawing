@@ -1,0 +1,27 @@
+.heading{
+    background-color:Cornsilk;
+    font-family: American Typewriter;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    box-shadow:10px 10px 10px PeachPuff;
+    margin: 0px;
+}
+.noi{
+    font-size: 20px;
+}
+.footer1{
+    background-color:PapayaWhip;
+    font-family:American Typewriter ;
+    font-size: 18;
+    bottom: 0;
+    line-height: 3;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    border: ridge 5px LightBlue;
+    box-shadow: 10px 10px 10px cadetblue;
+    border-radius: 20px;
+}
